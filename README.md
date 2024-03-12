@@ -1,9 +1,7 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- Ditlev Jæger Holm (tcm160)
 
 This repository contains  
 1. Inaugural project. 
